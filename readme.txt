@@ -1,2 +1,2 @@
-MyGit is a version control system.
-MyGit is free sofeware.
+MyGit is a distributed version control system.
+MyGit is free software.
